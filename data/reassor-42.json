@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "reassor",
+  "address": "0xd822554abe37b52e34d0c599ec828dc8c46721ff",
+  "risk": "3",
+  "title": "Preventing address to be added to blocklist",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/42"
+}
