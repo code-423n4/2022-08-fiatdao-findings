@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Lambda",
+  "address": "0xefc711b22f4fdbcbc221ac7c116e90c699d0b708",
+  "risk": "2",
+  "title": "Delegatee cannot control lock expiration",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/22"
+}
