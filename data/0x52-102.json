@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "3",
+  "title": "User can have full voting power with virtually no lockup using multiple locks and delegation",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/102"
+}
