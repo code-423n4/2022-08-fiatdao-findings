@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "rbserver",
+  "address": "0x4bd9605a3e546f3400df2c2be7b1c775aeea56bd",
+  "risk": "2",
+  "title": "penaltyAmount is deflated and remainingAmount is inflated when calling quitLock function of VotingEscrow contract according to current implementation",
+  "issueId": 114,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/114"
+}
