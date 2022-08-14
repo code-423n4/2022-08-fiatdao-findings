@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "0x52",
+  "address": "0x522dffc539c264a8f7e0b91102e899b33f4dabc3",
+  "risk": "2",
+  "title": "After using VotingEscrow.sol#quitLock users are forced to resume lock at old lock.end",
+  "issueId": 107,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/107"
+}
