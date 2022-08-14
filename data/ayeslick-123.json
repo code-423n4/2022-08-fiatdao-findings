@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "ayeslick",
+  "address": "0x7ccdb6979cb9dfa867b842fae8243b3b3fda444d",
+  "risk": "2",
+  "title": "An Operator can use ```CREATE2``` and ```SELFDESTRUCT``` to avoid the block list. ",
+  "issueId": 123,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/123"
+}
