@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "cryptphi",
+  "address": "0x876133657f5356e376b7ae27d251444727ce9488",
+  "risk": "2",
+  "title": "initialiazing blocklist contract address should be done at contract deployment.",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/58"
+}
