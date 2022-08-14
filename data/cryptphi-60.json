@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "cryptphi",
+  "address": "0x876133657f5356e376b7ae27d251444727ce9488",
+  "risk": "2",
+  "title": "Delegation would be successful when delegatee lock expiration is same as delegator's lock expiration.",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/60"
+}
