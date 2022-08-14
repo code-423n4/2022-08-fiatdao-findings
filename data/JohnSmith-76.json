@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "JohnSmith",
+  "address": "0xa5dc960468979961690b042aa188793e2d22e2dd",
+  "risk": "2",
+  "title": " `increaseUnlockTime(uint256)`  assigns wrong expiration date to old lock",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/76"
+}
