@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Throne6g",
+  "address": "0xbaa766d889d5d0f419841a558712b7a8b7a448fc",
+  "risk": "2",
+  "title": "No check to prevent penalty burning",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/118"
+}
