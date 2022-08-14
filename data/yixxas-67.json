@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "yixxas",
+  "address": "0x9079426b034c524ebd6cac9cb78dbe8cb0749f4e",
+  "risk": "3",
+  "title": "Malicious actor can increase its own voting power without having to actually lock in a majority of its token.",
+  "issueId": 67,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/67"
+}
