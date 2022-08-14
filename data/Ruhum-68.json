@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333f81993a1edcfec6821a3ec563ea06",
+  "risk": "2",
+  "title": "if I don't undelegate before my lock expires I can't withdraw temporarily",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/68"
+}
