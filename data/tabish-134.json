@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "tabish",
+  "address": "0xd6fcd2f85fe975bb9b0f3c1b1c6802bb09d33e43",
+  "risk": "3",
+  "title": "Incorrect `oldLocked` value passed in `VotingEscrow._checkpoint` in `VotingEscrow.increaseUnlockTime` when `locked_.delegatee == msg.sender`",
+  "issueId": 134,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/134"
+}
