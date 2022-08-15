@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "DecorativePineapple",
+  "address": "0xeb221d39642dff05f08e91099c572f35a4088fca",
+  "risk": "3",
+  "title": "Unsafe typecasting can lead to tokens being locked in the contract",
+  "issueId": 174,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/174"
+}
