@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Jujic",
+  "address": "0x6e1da38f9d9d87ce228234a570d992d4db294fa1",
+  "risk": "3",
+  "title": "Wrong penalty allocation computation ",
+  "issueId": 227,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/227"
+}
