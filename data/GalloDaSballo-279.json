@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "GalloDaSballo",
+  "address": "0x4666e94300429c6d3340449bc828e4218f360672",
+  "risk": "2",
+  "title": "Blocklist doesn't remove voting power",
+  "issueId": 279,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/279"
+}
