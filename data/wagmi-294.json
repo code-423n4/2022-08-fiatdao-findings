@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "wagmi",
+  "address": "0xB768c53CB0E6E38716C8340c104335ffDB64B59A",
+  "risk": "2",
+  "title": "Wrong logic in `_checkpoint()` function might lead to wrong value of `balanceOfAt()`, `totalSupplyAt()`",
+  "issueId": 294,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/294"
+}
