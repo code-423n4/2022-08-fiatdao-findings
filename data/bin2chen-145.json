@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "bin2chen",
+  "address": "0x4bb429d6c90d6449c2912b4faa687c7b4a6ace00",
+  "risk": "2",
+  "title": "increaseUnlockTime() set oldLocked.end error, set to new end time",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/145"
+}
