@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "0xackermann",
+  "address": "0x1f327224c77cd15dedb2c063f25cc0d2151933d3",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 212,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/212"
+}
