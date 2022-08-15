@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "3",
+  "title": "User cannot withdraw locked fund at all after unlock time has passed if delegated to someone else. Result in huge economics loss.",
+  "issueId": 176,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/176"
+}
