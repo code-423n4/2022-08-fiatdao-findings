@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "hansfriese",
+  "address": "0xf2dcb1d3b7091dcf2ce87ad115377c108ebe6dd4",
+  "risk": "2",
+  "title": "Improper require() with locked.end in `VotingEscrow.delegate()`",
+  "issueId": 288,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/288"
+}
