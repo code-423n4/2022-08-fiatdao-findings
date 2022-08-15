@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "peritoflores",
+  "address": "0xcc9c3d6ed709d47255815ff5b5bb17a745b7ceed",
+  "risk": "2",
+  "title": "[H1] Protocol is unusable with some ERC20 tokens",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/302"
+}
