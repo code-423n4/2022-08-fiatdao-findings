@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "Unsafe casting from int128 can cause wrong accounting of locked amounts",
+  "issueId": 228,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/228"
+}
