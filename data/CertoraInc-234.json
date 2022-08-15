@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "The `_checkpoint` function won't be called for a user which is both a delegator and a delegatee in the `increaseUnlockTime` function",
+  "issueId": 234,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/234"
+}
