@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "pedr02b2",
+  "address": "0x8f2e97986a7f43ade326d4bcf30b9edfddb07922",
+  "risk": "2",
+  "title": "Deposit does not verify if tokens are transfered successfully",
+  "issueId": 261,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/261"
+}
