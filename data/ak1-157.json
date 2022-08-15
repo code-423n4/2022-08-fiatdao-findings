@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "ak1",
+  "address": "0xf7a08c2c341bde5e17103d4780d1b465011a2a31",
+  "risk": "2",
+  "title": "delegated value can go to negative value during subtracting with amount. This will cause issue when delegating amount again.",
+  "issueId": 157,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/157"
+}
