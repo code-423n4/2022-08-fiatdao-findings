@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "3",
+  "title": "Missing voting power update from `increaseUnlockTime` ",
+  "issueId": 326,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/326"
+}
