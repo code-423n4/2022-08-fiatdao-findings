@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Haipls",
+  "address": "0xdde5f40e8e26b7fff4ecc01b8f7f409e4dcc8e37",
+  "risk": "3",
+  "title": "Penalty rate incorect calculation. Penalty rate increase linearly but must deacrese with time",
+  "issueId": 218,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/218"
+}
