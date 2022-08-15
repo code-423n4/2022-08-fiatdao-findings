@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "byndooa",
+  "address": "0x94bce1057e95d61a9754a238cddbda0989787154",
+  "risk": "2",
+  "title": "Blocklist.block() is avoidable with frontrun by targets",
+  "issueId": 328,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/328"
+}
