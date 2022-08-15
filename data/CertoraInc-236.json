@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "CertoraInc",
+  "address": "0x09A9af114843218a7446929b1183eBec373B2827",
+  "risk": "3",
+  "title": "Users which used quitLock aren't able to use the `VotingEscrow` contract with an unlock time that is less than the previous end time",
+  "issueId": 236,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/236"
+}
