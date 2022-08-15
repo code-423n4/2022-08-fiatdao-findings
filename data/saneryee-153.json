@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "saneryee",
+  "address": "0x8165636930a7020f4106c9a153463626a4d9bda2",
+  "risk": "3",
+  "title": "The toLocked.end >= fromLocked.end in delegate function is inconsistent with design.",
+  "issueId": 153,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/153"
+}
