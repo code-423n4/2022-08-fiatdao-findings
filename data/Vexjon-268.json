@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Vexjon",
+  "address": "0x00d17a8a00053681ca8fabe481bd4bdd58f984d7",
+  "risk": "3",
+  "title": "Function extcodesize doesn't return > 0 if the call has been from the constructor of the contract",
+  "issueId": 268,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/268"
+}
