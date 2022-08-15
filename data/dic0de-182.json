@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "dic0de",
+  "address": "0x29ea036e7ebAa2bc2003f991aC6523c247b50460",
+  "risk": "3",
+  "title": "The delegator's lock expiration can be longer than the delegatee's.",
+  "issueId": 182,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/182"
+}
