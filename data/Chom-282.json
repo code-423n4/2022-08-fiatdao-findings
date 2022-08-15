@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "User can't move delegation to someone who have lesser unlock time.",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/282"
+}
