@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "0xSky",
+  "address": "0xafee0b183264e33eac6ed7ef56aebeb96a9db899",
+  "risk": "2",
+  "title": "Some ERC20 tokens don't return bool values",
+  "issueId": 246,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/246"
+}
