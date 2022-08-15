@@ -1,0 +1,9 @@
+{
+  "contest": 154,
+  "handle": "dic0de",
+  "address": "0x29ea036e7ebAa2bc2003f991aC6523c247b50460",
+  "risk": "3",
+  "title": "Expired locks can still `increaseUnlockTime` when the `locked_.end != msg.sender`",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-08-fiatdao-findings/issues/181"
+}
