@@ -1,3 +1,11 @@
+---
+sponsor: "FIAT DAO"
+slug: "2022-08-fiatdao"
+date: "2022-10-03"
+title: "FIAT DAO veFDT contest"
+findings: "https://github.com/code-423n4/2022-08-fiatdao-findings/issues"
+contest: 154
+---
 
 # Overview
 
